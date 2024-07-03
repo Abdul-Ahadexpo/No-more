@@ -1,6 +1,6 @@
 :root {
   --green: rgb(3, 70, 255);
-  --blue: rgba(238, 2, 2, 0.383);
+  --blue: rgba(255, 0, 0, 0.383);
 }
 
 @keyframes float {
